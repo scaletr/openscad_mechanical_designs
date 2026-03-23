@@ -1,0 +1,9 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "Yeni set 1": {
+            "R": "10",
+            "fn_detail": "100"
+        }
+    }
+}
